@@ -3,7 +3,7 @@ package com.courseapp.domain;
 import java.io.Serializable;
 
 import javax.persistence.Entity;
-import javax.persistence.Id;
+
 
 @Entity
 @Table(name = "register")
